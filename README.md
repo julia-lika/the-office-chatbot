@@ -1,4 +1,4 @@
-# 🏢 Sistema de Auditoria: THE SCARN!
+# 🏢 THE SCARN!   
 ## (T)emporal (H)ybrid (E)ngine for (S)emantic (C)ompliance & (A)nomaly (R)ecognition (N)etwork
 
 Sistema multi-agente de auditoria de compliance desenvolvido para Toby Flenderson (RH) da Dunder Mifflin Scranton.
